@@ -1,4 +1,5 @@
-###### Main game Python file  ####3
+###### Main game Python file  ####
+
 from art import logo, vs, play, won
 import random
 # generate and display random account
